@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahilgaba97
+- 👋 Hi, I’m Sahil
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning Solidity
 - 📫 How to reach me- Email @ sahilarora.97@live.com
